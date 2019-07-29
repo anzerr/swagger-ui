@@ -1,6 +1,6 @@
 {
 	"name": "swagger-ui",
-	"version": "3.22.2",
+	"version": "3.22.3",
 	"main": "dist/swagger-ui.js",
 	"repository": {
 		"type": "git",
