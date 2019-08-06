@@ -108,7 +108,6 @@
 		"dedent": "^0.7.0",
 		"deepmerge": "^2.1.0",
 		"enzyme": "^2.7.1",
-		"eslint": "5.11.1",
 		"eslint-plugin-import": "^2.13.0",
 		"eslint-plugin-mocha": "^4.11.0",
 		"eslint-plugin-react": "^7.10.0",
